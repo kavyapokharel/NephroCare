@@ -22,4 +22,9 @@ Furthermore, each missed session is not just a lost opportunity for care, but al
 - Matplotlib (for visualization)
 
 
-A Hackathon project by Alabhya (alabhya-ai), Kavya (kavyapokharel), Krish (krishrbhattarai), Shivam, Sugam
+A Hackathon project by:
+Alabhya (@alabhya-ai) [System Engineer, Back-end],
+Kavya (@kavyapokharel) [Product & Research],
+Krish (@krishrbhattarai) [Product & System Design],
+Shivam [Lead back-end, UX Engineer],
+Sugam [Product Design & Research]
