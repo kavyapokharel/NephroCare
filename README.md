@@ -21,9 +21,9 @@ Furthermore, each missed session is not just a lost opportunity for care, but al
 - NumPy
 - Matplotlib (for visualization)
 
+---
 
-<br>
-**A 2025 VOXO Hackathon project by:**
+A 2025 VOXO Hackathon project by
 
 Alabhya (@alabhya-ai) [System Engineer, Back-end],
 
